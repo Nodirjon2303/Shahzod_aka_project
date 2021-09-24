@@ -1,0 +1,1 @@
+web: gunicorn Shahzod_aka_project.wsgi --log-file -
